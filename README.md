@@ -1,16 +1,15 @@
-### Hi there 👋
+## Welcome to my github page
 
-<!--
-**Gremlin982/Gremlin982** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can call me Riza or Gremlin
 
-Here are some ideas to get you started:
+Pronouns are She/Her
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I "sysadmin" [Noobs&Nerds](https://noobsandnerds.net)
+
+I'm currently learning Python
+
+You can reach out to me on the [Noobs&Nerds discord server](https://discord.com/invite/Rk9EuJkZ7z)
+
+<a href="https://www.youtube.com/channel/UC3k3IB_Z55aAK49dftf-mqg">
+  <img src="https://img.shields.io/badge/YouTube-red?logo=youtube" />
+</a>
