@@ -19,5 +19,3 @@ You can reach out to me on the [Noobs&Nerds Discord Server](https://discord.com/
 <a href="https://discord.gg/Rk9EuJkZ7z">
   <img src="https://dcbadge.vercel.app/api/server/Rk9EuJkZ7z" />
 </a>
-
----
