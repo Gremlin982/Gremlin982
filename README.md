@@ -10,7 +10,7 @@ I'm currently learning Python
 
 You can reach out to me on the [Noobs&Nerds Discord Server](https://discord.com/invite/Rk9EuJkZ7z)
 
-### Socials
+---
 
 <a href="https://www.youtube.com/channel/@Gremlin982">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
@@ -20,4 +20,4 @@ You can reach out to me on the [Noobs&Nerds Discord Server](https://discord.com/
   <img src="https://dcbadge.vercel.app/api/server/Rk9EuJkZ7z" />
 </a>
 
-
+---
