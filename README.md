@@ -4,7 +4,7 @@ You can call me Riza or Gremlin
 
 Pronouns are She/Her
 
-I made [Noobs&Nerds](https://noobsandnerds.net)
+I made [Noobs&Nerds](https://noobsandnerds.net/about)
 
 I'm currently learning Python
 
