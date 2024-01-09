@@ -7,11 +7,15 @@ Just a Trans Lady that likes tech (ik how original)
 Projects
 
 Noobs&Nerds
-A group project surrounding 
+<br>
+A group project surrounding
+<br>
 https://noobsandnerds.net/
 
 My Neocities Page
+<br>
 Personal Website, it looks old because thats what I like :)
+<br>
 https://gremlin.neocities.org/
 
 ---
