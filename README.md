@@ -16,7 +16,7 @@ https://gremlin.neocities.org/
 
 ---
 
-<a href="https://www.youtube.com/channel/UC3k3IB_Z55aAK49dftf-mqg">
+<a href="https://www.youtube.com/@Gremlin982">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
 </a>
 
