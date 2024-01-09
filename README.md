@@ -2,13 +2,17 @@
 
 You can call me Riza or Gremlin
 
-Pronouns are She/Her
+Just a Trans Lady that likes tech (ik how original)
 
-Owner of [Noobs&Nerds](https://noobsandnerds.net/)
+Projects
 
-I'm currently learning Python
+Noobs&Nerds
+A group project surrounding 
+https://noobsandnerds.net/
 
-You can reach out to me on the [Noobs&Nerds Discord Server](https://discord.com/invite/Rk9EuJkZ7z)
+My Neocities Page
+Personal Website, it looks old because thats what I like :)
+https://gremlin.neocities.org/
 
 ---
 
