@@ -8,7 +8,7 @@ Projects
 
 Noobs&Nerds
 <br>
-A group project based around games, tech, and content creation.
+A group based around games, tech, and content creation.
 <br>
 https://noobsandnerds.net/
 
