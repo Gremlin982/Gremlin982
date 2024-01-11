@@ -2,7 +2,7 @@
 
 You can call me Riza or Gremlin
 
-Just a Trans Lady that likes tech (ik how original)
+Just a trans Lady that likes tech (ik how original)
 
 Projects
 
