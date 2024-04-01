@@ -2,28 +2,26 @@
 
 You can call me Riza or Gremlin
 
-Just a trans Lady that likes tech (ik how original)
-
 Projects
 
 Noobs&Nerds
 <br>
-A group based around games, tech, and content creation.
+A group based around games, coding, and content creation.
 <br>
 https://noobsandnerds.net/
 
-My Neocities Page
+My Neocities Pages
 <br>
-Personal Website, it looks old because thats what I like :)
+Personal Website.
 <br>
 https://gremlin.neocities.org/
 
 ---
 
-<a href="https://www.youtube.com/@Gremlin982">
+<a href="">
   <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" />
 </a>
 
-<a href="https://discord.gg/Rk9EuJkZ7z">
-  <img src="https://dcbadge.vercel.app/api/server/Rk9EuJkZ7z" />
+<a href="https://discord.gg/aE5cfgT27P">
+  <img src="https://dcbadge.vercel.app/api/server/aE5cfgT27P"/>
 </a>
